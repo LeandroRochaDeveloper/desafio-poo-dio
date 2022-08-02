@@ -1,5 +1,5 @@
 # Default ignored files
-/workspace.xml
+/.idea/workspace.xml
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij
@@ -61,6 +61,9 @@ out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+
+.idea/
+.idea/misc.xml
 
 # JIRA plugin
 atlassian-ide-plugin.xml
